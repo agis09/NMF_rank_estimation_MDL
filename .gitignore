@@ -1,2 +1,4 @@
-*.csv
+toy_data/*.csv
 __pycache__/
+toy_data/*.npy
+toy_data/*.txt
